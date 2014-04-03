@@ -25,8 +25,8 @@ Nous sommes de jeunes étudiants en informatique de l'Université de sciences et
 vie professionnelle en se lançant dans un mini projet de contribution a l'OpenSource et de se familiariser avec pleins d'outils et exploitant nos connaissances 
 aquise à notre établissement, et nous sommes les LWT(TM) **Leaders without titles**, un groupe formé parle club OpenMinds de l'USTHB, et les etudiants qui forme
 le LWT(TM) :
-··* BETROUNI Khalil 
-··* ABBAD Hamza     
-··* DELLALI Salim   
-··* CHAID Roumaissa 
+--* BETROUNI Khalil 
+--* ABBAD Hamza     
+--* DELLALI Salim   
+--* CHAID Roumaissa 
 Vous pouvez nous contacter en nous envoyant un e-mail à notre adresse : **leaders-without-a-title@googlegroups.com**.
