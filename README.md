@@ -1,28 +1,26 @@
-PythonLWT
-=========
-#Read Me#
+PythonLWT ReadMe
+================
 
----
 
-##le Projet :##
+#le Projet :#
 
 Le projet consiste a éclaircire un langage de programmation nommé **Python** ,langage de programmation procédurale particulièrement  adapté au
  traitement des données textuellesqui ressemble a un autre nommé **perl**.
 Ce projet est réaliser en une page web que vous pouvez y accéder d'[ici](www.notre_site_doit_apparaitre_ici.je_sais_pas) ,qui a pour but de guider les gens a découvrir python en commençant par l'historique jusqu'a proposer des tutoriels et videos en lignes.
 
----
-
-##Contenu du site##
 
 
+#Contenu du site#
 
 
 
 
 
----
 
-##Les contributeurs##
+
+
+
+#Les contributeurs#
 
 Nous sommes de jeunes étudiants en informatique de l'Université de sciences et de la technologie de Bab-Ezzouar [USTHB](www.usthb.dz) qui veulent gouter à la
 vie professionnelle en se lançant dans un mini projet de contribution a l'OpenSource et de se familiariser avec pleins d'outils et exploitant nos connaissances 
@@ -33,7 +31,6 @@ le LWT™ :
 * DELLALI Salim   
 * CHAID Roumaissa
 * MAAMRA Youcef
-* 
----
+
 
 Vous pouvez nous contacter en nous envoyant un e-mail à notre adresse : **leaders-without-a-title@googlegroups.com**.
