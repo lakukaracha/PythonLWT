@@ -23,8 +23,8 @@ les gens a découvrir python en commençant par l'historique jusqu'a proposer de
 
 Nous sommes de jeunes étudiants en informatique de l'Université de sciences et de la technologie de Bab-Ezzouar [USTHB](www.usthb.dz) qui veulent gouter à la
 vie professionnelle en se lançant dans un mini projet de contribution a l'OpenSource et de se familiariser avec pleins d'outils et exploitant nos connaissances 
-aquise à notre établissement, et nous sommes les LWTᵀᴹ **Leaders without titles**, un groupe formé parle club OpenMinds de l'USTHB, et les etudiants qui forme
-le LWTᵀᴹ :
+aquise à notre établissement, et nous sommes les LWT™ **Leaders without titles**, un groupe formé parle club OpenMinds de l'USTHB, et les etudiants qui forme
+le LWT™ :
 * BETROUNI Khalil 
 * ABBAD Hamza     
 * DELLALI Salim   
