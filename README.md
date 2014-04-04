@@ -21,8 +21,7 @@ Ce projet est réaliser en une page web que vous pouvez y accéder d'[ici](http:
 
 ###Les contributeurs###
 
-Nous sommes de jeunes étudiants en informatique de l'Université de sciences et de la technologie de Bab-Ezzouar [USTHB](http://www.usthb.dz) qui veulent gouter à la vie professionnelle en se lançant dans un mini projet de contribution a l'OpenSource et de se familiariser avec pleins d'outils et exploiter les connaissances 
-aquise, et nous sommes les LWT™ **Leaders Without Titles**, un groupe formé parle club OpenMinds de l'USTHB, et les étudiants qui forme le LWT™ :
+Nous sommes de jeunes étudiants en informatique de l'Université de sciences et de la technologie de Bab-Ezzouar [USTHB](http://www.usthb.dz) qui veulent gouter à la vie professionnelle en se lançant dans un mini projet de contribution a l'OpenSource et de se familiariser avec pleins d'outils et exploiter les connaissances aquise, et nous sommes les LWT™ **Leaders Without Titles**, un groupe formé parle club OpenMinds de l'USTHB, et les étudiants qui forme le LWT™ :
 * BETROUNI Khalil 
 * ABBAD Hamza     
 * DELLALI Salim   
@@ -31,8 +30,7 @@ aquise, et nous sommes les LWT™ **Leaders Without Titles**, un groupe formé p
 
 ###À propos du club OpenMinds###
 
-#####Slogan:#####
-Ce Qui Ne Se Partage Pas Se Perd...
+Ce qui ne se partage pas se perd...
 
 #####Mission:#####
 - Réalisation de projets collaboratifs entre étudiants mettant en pratique si possible plusieurs spécialités.
