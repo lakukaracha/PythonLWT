@@ -31,15 +31,15 @@ aquise, et nous sommes les LWT™ **Leaders Without Titles**, un groupe formé p
 
 ###À propos du club OpenMinds###
 
-Slogan:
+#####Slogan:#####
 Ce Qui Ne Se Partage Pas Se Perd...
 
-Mission:
+#####Mission:#####
 - Réalisation de projets collaboratifs entre étudiants mettant en pratique si possible plusieurs spécialités.
 - Contribuer au développement de l'université, dans le contexte de divers projets et réalisations.
 - Promouvoir le logiciel libre et l'Open Source.
-- 
-Description:
+
+#####Description:#####
 Le club OpenMinds est un club scientifique de l'USTHB créé en Mars 2009, afin de promouvoir l'esprit de collaboration, le partage des connaissances et le travail de groupe auprès des étudiants de l'USTHB et à l’extérieur.
 
 ---
